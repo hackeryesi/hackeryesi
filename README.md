@@ -28,9 +28,15 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials Connect With Me:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
-(https://linkedin.com/in/https://www.linkedin.com/in/yesi-gebreselassie/) 
-https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hackeryesi
+<h3>Connect With Me</h3>
+
+<a href="https://www.linkedin.com/in/yesi-gebreselassie/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yesi_Gebreselassie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/hackeryesi">
+  <img src="https://img.shields.io/badge/X-@hackeryesi-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 ### Endpoint
 <div>
