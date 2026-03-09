@@ -75,6 +75,67 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 ![](https://nirzak-streak-stats.vercel.app/?user=hackeryesi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hackeryesi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 👋 Hi, I'm Yesi Gebreselassie
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Threat+Detection+%7C+Cloud+Security;SIEM+%7C+SOC+Analysis)](https://git.io/typing-svg)
+
+---
+
+## 🧑‍💻 About Me
+
+🔐 Cybersecurity enthusiast focused on threat detection and security operations  
+☁️ Interested in cloud security and infrastructure protection  
+🛡️ Building hands-on labs with SIEM and detection tools  
+📚 Constantly learning and improving security skills  
+
+---
+
+## 🔧 Cybersecurity Tools & Technologies
+
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue)
+![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+---
+
+## 🔎 Cybersecurity Projects
+
+### 🛡️ Wazuh SIEM Home Lab
+- Built a SIEM lab using Wazuh and Elastic Stack
+- Configured log monitoring and threat detection
+- Created alerts for suspicious activity
+
+### 🔍 Network Traffic Analysis
+- Used Wireshark to analyze suspicious traffic
+- Investigated possible attack patterns
+
+### 🧪 Security Monitoring Lab
+- Built a SOC-style monitoring environment
+- Simulated attacks and detection scenarios
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesi-gebreselassie/)
+
+[![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/hackeryesi)
+
+---
+
+⭐ If you like my projects, feel free to star them!
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
