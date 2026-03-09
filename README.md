@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=480&lines=HI%2C+I'M+CHRIS!)](https://git.io/typing-svg)
 
 # <a href="https://www.linkedin.com/in/yesi-gebreselassie-01b053232/">Yesi Gebreselassie</a>'s IT and Cybersecurity Project Portfolio 🔐
 
