@@ -79,9 +79,6 @@ I love tackling complex challenges through hands-on projects. From vulnerability
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00C853&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Threat+Detection+%7C+Cloud+Security;SIEM+%7C+SOC+Analysis)](https://git.io/typing-svg)
-
-
 ## 🧑‍💻 About Me
 
 🔐 Cybersecurity enthusiast focused on threat detection and security operations  
